@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#315b4b">
+  <meta name="description" content="史序：以时间串起考点，用练习巩固记忆。离线可用的考研政治中国近现代史复习工具。">
+  <title>史序 · 中国近现代史复习时间轴</title>
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="css/style.css">
+  <script defer src="data/history.js"></script>
+  <script defer src="data/review.js"></script>
+  <script defer src="data/questions.js"></script>
+  <script defer src="data/exams.js"></script>
+  <script defer src="js/core.js"></script>
+  <script defer src="js/app.js"></script>
+</head>
+<body>
+  <a class="skip" href="#main">跳到学习内容</a>
+  <aside class="sidebar">
+    <a class="brand" href="#timeline"><img src="assets/favicon.svg" width="40" height="40" alt=""><span>史序<small>SHIXU · STUDY</small></span></a>
+    <p class="sidebar-caption">考研政治 · 中国近现代史纲要</p>
+    <nav aria-label="主要导航">
+      <a href="#timeline" data-page="timeline"><span aria-hidden="true">◷</span>历史时间轴</a>
+      <a href="#practice" data-page="practice"><span aria-hidden="true">▤</span>练习中心</a>
+      <a href="#exams" data-page="exams"><span aria-hidden="true">▧</span>真题考点对应</a>
+      <a href="#mistakes" data-page="mistakes"><span aria-hidden="true">↺</span>错题复盘<b id="wrong-count">0</b></a>
+      <a href="#memory" data-page="memory"><span aria-hidden="true">✧</span>高频速记</a>
+      <a href="#progress" data-page="progress"><span aria-hidden="true">▥</span>我的学习</a>
+    </nav>
+    <div class="sidebar-bottom"><p>每天一点，连成一线。</p><small>纯前端 · 本地保存 · 公益开源</small><a href="#about" data-page="about">使用与数据说明 ↗</a></div>
+  </aside>
+  <div class="shell">
+    <header class="topbar"><span id="breadcrumb">学习空间 / 历史时间轴</span><div class="top-actions"><button id="font-toggle" title="调整正文字号">字号 A+</button><button id="theme-toggle" aria-label="切换深色主题">☾ 深色</button><span class="local-label" id="offline-status" role="status">本地学习空间</span></div></header>
+    <main id="main" tabindex="-1"></main>
+    <footer>史序 SHIXU <span>循历史之序，知时代之变。</span> <a href="#about">内容与来源说明</a></footer>
+  </div>
+  <div id="notice" role="status" aria-live="polite" hidden></div>
+  <script>/* 经典脚本可直接通过 file:// 加载；Service Worker 仅在 HTTP(S) 环境启用。 */</script>
+</body>
+</html>
