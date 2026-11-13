@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "questions": [{
+    "id": "ui-test-2020-1",
+    "year": 2020,
+    "number": "1",
+    "kind": "single",
+    "eventIds": ["h001"],
+    "stem": "【本地UI测试，非真题】选择测试选项甲。",
+    "options": ["甲", "乙"],
+    "answer": [0],
+    "explanation": "这是导入流程的自动化测试数据，不是2020年考试试题。",
+    "source": "本地UI测试构造，非真题，不用于正式学习",
+    "rights": "项目原创测试数据，仅用于验证导入"
+  }]
+}

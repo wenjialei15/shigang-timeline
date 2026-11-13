@@ -1,0 +1,3946 @@
+{
+  "version": 1,
+  "from": 2010,
+  "to": 2025,
+  "reviewedAt": "2026-11-13",
+  "records": [
+    {
+      "id": "r2010-09",
+      "year": 2010,
+      "number": 9,
+      "kind": "single",
+      "topic": "早期传播马克思主义的代表人物",
+      "eventIds": [
+        "h073",
+        "h016"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2010/9",
+          "locator": "2010年全国硕士研究生招生考试 · 思想政治理论（101） · 第9题"
+        },
+        {
+          "name": "研招网转载万学海文解析",
+          "url": "https://yz.chsi.com.cn/kyzx/other/201001/20100113/61646472.html",
+          "locator": "在该公开整理材料中按原卷题号查找"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2010-10",
+      "year": 2010,
+      "number": 10,
+      "kind": "single",
+      "topic": "探索适合国情的社会主义建设道路",
+      "eventIds": [
+        "h062",
+        "h050"
+      ],
+      "scope": "cross",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2010/10",
+          "locator": "2010年全国硕士研究生招生考试 · 思想政治理论（101） · 第10题"
+        },
+        {
+          "name": "研招网转载万学海文解析",
+          "url": "https://yz.chsi.com.cn/kyzx/other/201001/20100113/61646472.html",
+          "locator": "在该公开整理材料中按原卷题号查找"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2010-26",
+      "year": 2010,
+      "number": 26,
+      "kind": "multiple",
+      "topic": "洋务运动失败的制度与组织原因",
+      "eventIds": [
+        "h007",
+        "h008"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2010/26",
+          "locator": "2010年全国硕士研究生招生考试 · 思想政治理论（101） · 第26题"
+        },
+        {
+          "name": "研招网转载万学海文解析",
+          "url": "https://yz.chsi.com.cn/kyzx/other/201001/20100113/61646472-2.html",
+          "locator": "在该公开整理材料中按原卷题号查找"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2010-27",
+      "year": 2010,
+      "number": 27,
+      "kind": "multiple",
+      "topic": "农村革命道路形成的中国条件",
+      "eventIds": [
+        "h025"
+      ],
+      "scope": "cross",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2010/27",
+          "locator": "2010年全国硕士研究生招生考试 · 思想政治理论（101） · 第27题"
+        },
+        {
+          "name": "研招网转载万学海文解析",
+          "url": "https://yz.chsi.com.cn/kyzx/other/201001/20100113/61646472-2.html",
+          "locator": "在该公开整理材料中按原卷题号查找"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2010-28",
+      "year": 2010,
+      "number": 28,
+      "kind": "multiple",
+      "topic": "皖南事变后维护抗日统一战线",
+      "eventIds": [
+        "h033",
+        "h080"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2010/28",
+          "locator": "2010年全国硕士研究生招生考试 · 思想政治理论（101） · 第28题"
+        },
+        {
+          "name": "研招网转载万学海文解析",
+          "url": "https://yz.chsi.com.cn/kyzx/other/201001/20100113/61646472-2.html",
+          "locator": "在该公开整理材料中按原卷题号查找"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2010-29",
+      "year": 2010,
+      "number": 29,
+      "kind": "multiple",
+      "topic": "国统区第二条战线形成的原因",
+      "eventIds": [
+        "h083"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2010/29",
+          "locator": "2010年全国硕士研究生招生考试 · 思想政治理论（101） · 第29题"
+        },
+        {
+          "name": "研招网转载万学海文解析",
+          "url": "https://yz.chsi.com.cn/kyzx/other/201001/20100113/61646472-2.html",
+          "locator": "在该公开整理材料中按原卷题号查找"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2010-36",
+      "year": 2010,
+      "number": 36,
+      "kind": "analysis",
+      "topic": "孙中山的革命追求与新中国成立",
+      "eventIds": [
+        "h012",
+        "h045"
+      ],
+      "scope": "history",
+      "parts": [
+        {
+          "number": 1,
+          "topic": "孙中山的革命追求与建国的联系",
+          "eventIds": [
+            "h012",
+            "h045"
+          ]
+        },
+        {
+          "number": 2,
+          "topic": "新中国成立的历史转折",
+          "eventIds": [
+            "h045"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/fenxiti/2010-36",
+          "locator": "2010年全国硕士研究生招生考试 · 思想政治理论（101） · 第36题"
+        },
+        {
+          "name": "研招网转载万学海文解析",
+          "url": "https://yz.chsi.com.cn/kyzx/other/201001/20100113/61646472-3.html",
+          "locator": "在该公开整理材料中按原卷题号查找"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2011-09",
+      "year": 2011,
+      "number": 9,
+      "kind": "single",
+      "topic": "近代反侵略战争失败的内部根源",
+      "eventIds": [
+        "h001",
+        "h008"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2011/9",
+          "locator": "2011年全国硕士研究生招生考试 · 思想政治理论（101） · 第9题"
+        },
+        {
+          "name": "中国考研网转载海天教育整理",
+          "url": "https://www.chinakaoyan.com/info/article/id/10877.shtml",
+          "locator": "在该公开整理材料中按原卷题号查找"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2011-10",
+      "year": 2011,
+      "number": 10,
+      "kind": "single",
+      "topic": "抗美援朝胜利带来的国际影响",
+      "eventIds": [
+        "h087"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2011/10",
+          "locator": "2011年全国硕士研究生招生考试 · 思想政治理论（101） · 第10题"
+        },
+        {
+          "name": "中国考研网转载海天教育整理",
+          "url": "https://www.chinakaoyan.com/info/article/id/10877.shtml",
+          "locator": "在该公开整理材料中按原卷题号查找"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2011-26",
+      "year": 2011,
+      "number": 26,
+      "kind": "multiple",
+      "topic": "辛亥革命的主要历史成果",
+      "eventIds": [
+        "h011",
+        "h012"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2011/26",
+          "locator": "2011年全国硕士研究生招生考试 · 思想政治理论（101） · 第26题"
+        },
+        {
+          "name": "中国考研网转载海天教育整理",
+          "url": "https://www.chinakaoyan.com/info/article/id/10877.shtml",
+          "locator": "在该公开整理材料中按原卷题号查找"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2011-27",
+      "year": 2011,
+      "number": 27,
+      "kind": "multiple",
+      "topic": "战时文件与台湾澎湖归还",
+      "eventIds": [
+        "h037"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2011/27",
+          "locator": "2011年全国硕士研究生招生考试 · 思想政治理论（101） · 第27题"
+        },
+        {
+          "name": "中国考研网转载海天教育整理",
+          "url": "https://www.chinakaoyan.com/info/article/id/10877.shtml",
+          "locator": "在该公开整理材料中按原卷题号查找"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2011-28",
+      "year": 2011,
+      "number": 28,
+      "kind": "multiple",
+      "topic": "延安整风反对的主观主义形式",
+      "eventIds": [
+        "h035"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2011/28",
+          "locator": "2011年全国硕士研究生招生考试 · 思想政治理论（101） · 第28题"
+        },
+        {
+          "name": "中国考研网转载海天教育整理",
+          "url": "https://www.chinakaoyan.com/info/article/id/10877.shtml",
+          "locator": "在该公开整理材料中按原卷题号查找"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2011-29",
+      "year": 2011,
+      "number": 29,
+      "kind": "multiple",
+      "topic": "农业合作化道路的历史经验",
+      "eventIds": [
+        "h049"
+      ],
+      "scope": "cross",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2011/29",
+          "locator": "2011年全国硕士研究生招生考试 · 思想政治理论（101） · 第29题"
+        },
+        {
+          "name": "中国考研网转载海天教育整理",
+          "url": "https://www.chinakaoyan.com/info/article/id/10877.shtml",
+          "locator": "在该公开整理材料中按原卷题号查找"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2011-36",
+      "year": 2011,
+      "number": 36,
+      "kind": "analysis",
+      "topic": "建党的历史转折与信仰的力量",
+      "eventIds": [
+        "h017",
+        "h045",
+        "h051"
+      ],
+      "scope": "history",
+      "parts": [
+        {
+          "number": 1,
+          "topic": "党的成立何以具有开创意义",
+          "eventIds": [
+            "h017"
+          ]
+        },
+        {
+          "number": 2,
+          "topic": "理想信仰如何转化为社会变革力量",
+          "eventIds": [
+            "h017",
+            "h045",
+            "h051"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/fenxiti/2011-36",
+          "locator": "2011年全国硕士研究生招生考试 · 思想政治理论（101） · 第36题"
+        },
+        {
+          "name": "中国考研网转载海天教育整理",
+          "url": "https://www.chinakaoyan.com/info/article/id/10877.shtml",
+          "locator": "在该公开整理材料中按原卷题号查找"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2012-09",
+      "year": 2012,
+      "number": 9,
+      "kind": "single",
+      "topic": "列强未能瓜分中国的根本原因",
+      "eventIds": [
+        "h001",
+        "h008"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2012/9",
+          "locator": "2012年全国硕士研究生招生考试 · 思想政治理论（101） · 第9题"
+        },
+        {
+          "name": "中国教育在线试卷解析（背景对照，不代表逐题复核）",
+          "url": "https://kaoyan.eol.cn/fu_xi/zhengzhi/201201/t20120108_729095.shtml",
+          "locator": "当年考情与范围对照"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2012-10",
+      "year": 2012,
+      "number": 10,
+      "kind": "single",
+      "topic": "民主革命与社会主义革命的衔接",
+      "eventIds": [
+        "h045",
+        "h049"
+      ],
+      "scope": "cross",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2012/10",
+          "locator": "2012年全国硕士研究生招生考试 · 思想政治理论（101） · 第10题"
+        },
+        {
+          "name": "中国教育在线试卷解析（背景对照，不代表逐题复核）",
+          "url": "https://kaoyan.eol.cn/fu_xi/zhengzhi/201201/t20120108_729095.shtml",
+          "locator": "当年考情与范围对照"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2012-26",
+      "year": 2012,
+      "number": 26,
+      "kind": "multiple",
+      "topic": "鸦片战争后美法强加的不平等条约",
+      "eventIds": [
+        "h002"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2012/26",
+          "locator": "2012年全国硕士研究生招生考试 · 思想政治理论（101） · 第26题"
+        },
+        {
+          "name": "中国教育在线试卷解析（背景对照，不代表逐题复核）",
+          "url": "https://kaoyan.eol.cn/fu_xi/zhengzhi/201201/t20120108_729095.shtml",
+          "locator": "当年考情与范围对照"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2012-27",
+      "year": 2012,
+      "number": 27,
+      "kind": "multiple",
+      "topic": "洋务时期新式学堂的主要类别",
+      "eventIds": [
+        "h007"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2012/27",
+          "locator": "2012年全国硕士研究生招生考试 · 思想政治理论（101） · 第27题"
+        },
+        {
+          "name": "中国教育在线试卷解析（背景对照，不代表逐题复核）",
+          "url": "https://kaoyan.eol.cn/fu_xi/zhengzhi/201201/t20120108_729095.shtml",
+          "locator": "当年考情与范围对照"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2012-28",
+      "year": 2012,
+      "number": 28,
+      "kind": "multiple",
+      "topic": "抗日游击战争的战略作用",
+      "eventIds": [
+        "h033",
+        "h034",
+        "h080"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2012/28",
+          "locator": "2012年全国硕士研究生招生考试 · 思想政治理论（101） · 第28题"
+        },
+        {
+          "name": "中国教育在线试卷解析（背景对照，不代表逐题复核）",
+          "url": "https://kaoyan.eol.cn/fu_xi/zhengzhi/201201/t20120108_729095.shtml",
+          "locator": "当年考情与范围对照"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2012-29",
+      "year": 2012,
+      "number": 29,
+      "kind": "multiple",
+      "topic": "社会主义社会矛盾与处理方法",
+      "eventIds": [
+        "h063"
+      ],
+      "scope": "cross",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2012/29",
+          "locator": "2012年全国硕士研究生招生考试 · 思想政治理论（101） · 第29题"
+        },
+        {
+          "name": "中国教育在线试卷解析（背景对照，不代表逐题复核）",
+          "url": "https://kaoyan.eol.cn/fu_xi/zhengzhi/201201/t20120108_729095.shtml",
+          "locator": "当年考情与范围对照"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2012-36",
+      "year": 2012,
+      "number": 36,
+      "kind": "analysis",
+      "topic": "反对君主制与继承孙中山的事业",
+      "eventIds": [
+        "h012",
+        "h017",
+        "h045"
+      ],
+      "scope": "history",
+      "parts": [
+        {
+          "number": 1,
+          "topic": "推翻君主制的革命必要性",
+          "eventIds": [
+            "h012"
+          ]
+        },
+        {
+          "number": 2,
+          "topic": "中国共产党继承革命事业的实践",
+          "eventIds": [
+            "h017",
+            "h045"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/fenxiti/2012-36",
+          "locator": "2012年全国硕士研究生招生考试 · 思想政治理论（101） · 第36题"
+        },
+        {
+          "name": "中国教育在线试卷解析（背景对照，不代表逐题复核）",
+          "url": "https://kaoyan.eol.cn/fu_xi/zhengzhi/201201/t20120108_729095.shtml",
+          "locator": "当年考情与范围对照"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2013-09",
+      "year": 2013,
+      "number": 9,
+      "kind": "single",
+      "topic": "维新派与洋务派制度主张之别",
+      "eventIds": [
+        "h007",
+        "h009"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2013/9",
+          "locator": "2013年全国硕士研究生招生考试 · 思想政治理论（101） · 第9题"
+        },
+        {
+          "name": "包头医学院公开试题整理PDF",
+          "url": "https://www.btmc.edu.cn/__local/9/A4/25/57748ADB6C2C448942919ADAF1A_7334173C_766F2.pdf?e=.pdf#page=7",
+          "locator": "PDF第7页（文件页码）"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2013-10",
+      "year": 2013,
+      "number": 10,
+      "kind": "single",
+      "topic": "党依靠人民群众的力量来源",
+      "eventIds": [
+        "h017",
+        "h036"
+      ],
+      "scope": "cross",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2013/10",
+          "locator": "2013年全国硕士研究生招生考试 · 思想政治理论（101） · 第10题"
+        },
+        {
+          "name": "包头医学院公开试题整理PDF",
+          "url": "https://www.btmc.edu.cn/__local/9/A4/25/57748ADB6C2C448942919ADAF1A_7334173C_766F2.pdf?e=.pdf#page=7",
+          "locator": "PDF第7页（文件页码）"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2013-27",
+      "year": 2013,
+      "number": 27,
+      "kind": "multiple",
+      "topic": "大革命与辛亥革命的比较",
+      "eventIds": [
+        "h012",
+        "h020",
+        "h021"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2013/27",
+          "locator": "2013年全国硕士研究生招生考试 · 思想政治理论（101） · 第27题"
+        },
+        {
+          "name": "包头医学院公开试题整理PDF",
+          "url": "https://www.btmc.edu.cn/__local/9/A4/25/57748ADB6C2C448942919ADAF1A_7334173C_766F2.pdf?e=.pdf#page=14",
+          "locator": "PDF第14页（文件页码）"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2013-28",
+      "year": 2013,
+      "number": 28,
+      "kind": "multiple",
+      "topic": "土地革命时期左倾错误的表现",
+      "eventIds": [
+        "h028",
+        "h025"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2013/28",
+          "locator": "2013年全国硕士研究生招生考试 · 思想政治理论（101） · 第28题"
+        },
+        {
+          "name": "包头医学院公开试题整理PDF",
+          "url": "https://www.btmc.edu.cn/__local/9/A4/25/57748ADB6C2C448942919ADAF1A_7334173C_766F2.pdf?e=.pdf#page=14",
+          "locator": "PDF第14页（文件页码）"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2013-29",
+      "year": 2013,
+      "number": 29,
+      "kind": "multiple",
+      "topic": "抗日战争胜利的主要条件",
+      "eventIds": [
+        "h033",
+        "h037"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2013/29",
+          "locator": "2013年全国硕士研究生招生考试 · 思想政治理论（101） · 第29题"
+        },
+        {
+          "name": "包头医学院公开试题整理PDF",
+          "url": "https://www.btmc.edu.cn/__local/9/A4/25/57748ADB6C2C448942919ADAF1A_7334173C_766F2.pdf?e=.pdf#page=15",
+          "locator": "PDF第15页（文件页码）"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2013-30",
+      "year": 2013,
+      "number": 30,
+      "kind": "multiple",
+      "topic": "社会主义基本制度确立的影响",
+      "eventIds": [
+        "h049"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2013/30",
+          "locator": "2013年全国硕士研究生招生考试 · 思想政治理论（101） · 第30题"
+        },
+        {
+          "name": "包头医学院公开试题整理PDF",
+          "url": "https://www.btmc.edu.cn/__local/9/A4/25/57748ADB6C2C448942919ADAF1A_7334173C_766F2.pdf?e=.pdf#page=15",
+          "locator": "PDF第15页（文件页码）"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2013-36",
+      "year": 2013,
+      "number": 36,
+      "kind": "analysis",
+      "topic": "民族复兴梦想的历史与现实基础",
+      "eventIds": [
+        "h001",
+        "h045",
+        "h051",
+        "h056",
+        "h012"
+      ],
+      "scope": "history",
+      "parts": [
+        {
+          "number": 1,
+          "topic": "民族复兴成为近代历史主题的背景",
+          "eventIds": [
+            "h001",
+            "h012"
+          ]
+        },
+        {
+          "number": 2,
+          "topic": "实现复兴的现实条件",
+          "eventIds": [
+            "h045",
+            "h051",
+            "h056"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/fenxiti/2013-36",
+          "locator": "2013年全国硕士研究生招生考试 · 思想政治理论（101） · 第36题"
+        },
+        {
+          "name": "包头医学院公开试题整理PDF",
+          "url": "https://www.btmc.edu.cn/__local/9/A4/25/57748ADB6C2C448942919ADAF1A_7334173C_766F2.pdf?e=.pdf#page=20",
+          "locator": "PDF第20页（文件页码）"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2014-09",
+      "year": 2014,
+      "number": 9,
+      "kind": "single",
+      "topic": "新文化运动重视思想变革的原因",
+      "eventIds": [
+        "h015"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2014/9",
+          "locator": "2014年全国硕士研究生招生考试 · 思想政治理论（101） · 第9题"
+        },
+        {
+          "name": "包头医学院公开试题整理PDF",
+          "url": "https://www.btmc.edu.cn/__local/F/93/5E/4169D76D5346E70F8957A97E99C_5D8A3E80_8ADA6.pdf?e=.pdf#page=2",
+          "locator": "PDF第2页（文件页码）"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2014-10",
+      "year": 2014,
+      "number": 10,
+      "kind": "single",
+      "topic": "新三民主义成为合作基础的条件",
+      "eventIds": [
+        "h020"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2014/10",
+          "locator": "2014年全国硕士研究生招生考试 · 思想政治理论（101） · 第10题"
+        },
+        {
+          "name": "包头医学院公开试题整理PDF",
+          "url": "https://www.btmc.edu.cn/__local/F/93/5E/4169D76D5346E70F8957A97E99C_5D8A3E80_8ADA6.pdf?e=.pdf#page=2",
+          "locator": "PDF第2页（文件页码）"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2014-11",
+      "year": 2014,
+      "number": 11,
+      "kind": "single",
+      "topic": "星星之火与革命前途的判断",
+      "eventIds": [
+        "h075",
+        "h025"
+      ],
+      "scope": "cross",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2014/11",
+          "locator": "2014年全国硕士研究生招生考试 · 思想政治理论（101） · 第11题"
+        },
+        {
+          "name": "包头医学院公开试题整理PDF",
+          "url": "https://www.btmc.edu.cn/__local/F/93/5E/4169D76D5346E70F8957A97E99C_5D8A3E80_8ADA6.pdf?e=.pdf#page=2",
+          "locator": "PDF第2页（文件页码）"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2014-12",
+      "year": 2014,
+      "number": 12,
+      "kind": "single",
+      "topic": "批评和自我批评的党的作风",
+      "eventIds": [
+        "h035",
+        "h036"
+      ],
+      "scope": "cross",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2014/12",
+          "locator": "2014年全国硕士研究生招生考试 · 思想政治理论（101） · 第12题"
+        },
+        {
+          "name": "包头医学院公开试题整理PDF",
+          "url": "https://www.btmc.edu.cn/__local/F/93/5E/4169D76D5346E70F8957A97E99C_5D8A3E80_8ADA6.pdf?e=.pdf#page=3",
+          "locator": "PDF第3页（文件页码）"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2014-27",
+      "year": 2014,
+      "number": 27,
+      "kind": "multiple",
+      "topic": "临时约法的民主与共和原则",
+      "eventIds": [
+        "h013"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2014/27",
+          "locator": "2014年全国硕士研究生招生考试 · 思想政治理论（101） · 第27题"
+        },
+        {
+          "name": "包头医学院公开试题整理PDF",
+          "url": "https://www.btmc.edu.cn/__local/F/93/5E/4169D76D5346E70F8957A97E99C_5D8A3E80_8ADA6.pdf?e=.pdf#page=6",
+          "locator": "PDF第6页（文件页码）"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2014-28",
+      "year": 2014,
+      "number": 28,
+      "kind": "multiple",
+      "topic": "战后领土归还所依据的国际文件",
+      "eventIds": [
+        "h008",
+        "h037"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2014/28",
+          "locator": "2014年全国硕士研究生招生考试 · 思想政治理论（101） · 第28题"
+        },
+        {
+          "name": "包头医学院公开试题整理PDF",
+          "url": "https://www.btmc.edu.cn/__local/F/93/5E/4169D76D5346E70F8957A97E99C_5D8A3E80_8ADA6.pdf?e=.pdf#page=6",
+          "locator": "PDF第6页（文件页码）"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2014-29",
+      "year": 2014,
+      "number": 29,
+      "kind": "multiple",
+      "topic": "抗战胜利后争取和平民主的举措",
+      "eventIds": [
+        "h038",
+        "h081"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2014/29",
+          "locator": "2014年全国硕士研究生招生考试 · 思想政治理论（101） · 第29题"
+        },
+        {
+          "name": "包头医学院公开试题整理PDF",
+          "url": "https://www.btmc.edu.cn/__local/F/93/5E/4169D76D5346E70F8957A97E99C_5D8A3E80_8ADA6.pdf?e=.pdf#page=7",
+          "locator": "PDF第7页（文件页码）"
+        }
+      ],
+      "notes": "对照PDF中存在选项排列不同的版本；此索引不据此提供选项字母答案。",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2014-36",
+      "year": 2014,
+      "number": 36,
+      "kind": "analysis",
+      "topic": "评价毛泽东与两个历史时期的关系",
+      "eventIds": [
+        "h045",
+        "h049",
+        "h052",
+        "h051",
+        "h025",
+        "h050"
+      ],
+      "scope": "history",
+      "parts": [
+        {
+          "number": 1,
+          "topic": "毛泽东的历史贡献与科学评价",
+          "eventIds": [
+            "h025",
+            "h045",
+            "h049",
+            "h052"
+          ]
+        },
+        {
+          "number": 2,
+          "topic": "改革前后历史时期的继承联系",
+          "eventIds": [
+            "h050",
+            "h051"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/fenxiti/2014-36",
+          "locator": "2014年全国硕士研究生招生考试 · 思想政治理论（101） · 第36题"
+        },
+        {
+          "name": "包头医学院公开试题整理PDF",
+          "url": "https://www.btmc.edu.cn/__local/F/93/5E/4169D76D5346E70F8957A97E99C_5D8A3E80_8ADA6.pdf?e=.pdf#page=9",
+          "locator": "PDF第9页（文件页码）"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2015-09",
+      "year": 2015,
+      "number": 9,
+      "kind": "single",
+      "topic": "民族独立与救国建设的先后关系",
+      "eventIds": [
+        "h001",
+        "h045"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2015/9",
+          "locator": "2015年全国硕士研究生招生考试 · 思想政治理论（101） · 第9题"
+        },
+        {
+          "name": "新东方网公开试题PDF",
+          "url": "https://file.xdf.cn/uploads/141227/157_141227115735YgWuTGEXf2e3nJrf.pdf",
+          "locator": "在该公开整理材料中按原卷题号查找"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2015-10",
+      "year": 2015,
+      "number": 10,
+      "kind": "single",
+      "topic": "辛亥革命未能完成的历史任务",
+      "eventIds": [
+        "h012"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2015/10",
+          "locator": "2015年全国硕士研究生招生考试 · 思想政治理论（101） · 第10题"
+        },
+        {
+          "name": "新东方网公开试题PDF",
+          "url": "https://file.xdf.cn/uploads/141227/157_141227115735YgWuTGEXf2e3nJrf.pdf",
+          "locator": "在该公开整理材料中按原卷题号查找"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2015-11",
+      "year": 2015,
+      "number": 11,
+      "kind": "single",
+      "topic": "一战对中国先进分子认识的影响",
+      "eventIds": [
+        "h015",
+        "h073",
+        "h016"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2015/11",
+          "locator": "2015年全国硕士研究生招生考试 · 思想政治理论（101） · 第11题"
+        },
+        {
+          "name": "新东方网公开试题PDF",
+          "url": "https://file.xdf.cn/uploads/141227/157_141227115735YgWuTGEXf2e3nJrf.pdf",
+          "locator": "在该公开整理材料中按原卷题号查找"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2015-12",
+      "year": 2015,
+      "number": 12,
+      "kind": "single",
+      "topic": "古田会议规定的人民军队性质",
+      "eventIds": [
+        "h026"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2015/12",
+          "locator": "2015年全国硕士研究生招生考试 · 思想政治理论（101） · 第12题"
+        },
+        {
+          "name": "新东方网公开试题PDF",
+          "url": "https://file.xdf.cn/uploads/141227/157_141227115735YgWuTGEXf2e3nJrf.pdf",
+          "locator": "在该公开整理材料中按原卷题号查找"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2015-27",
+      "year": 2015,
+      "number": 27,
+      "kind": "multiple",
+      "topic": "甲午战败对民族与社会的影响",
+      "eventIds": [
+        "h008",
+        "h009"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2015/27",
+          "locator": "2015年全国硕士研究生招生考试 · 思想政治理论（101） · 第27题"
+        },
+        {
+          "name": "新东方网公开试题PDF",
+          "url": "https://file.xdf.cn/uploads/141227/157_141227115735YgWuTGEXf2e3nJrf.pdf",
+          "locator": "在该公开整理材料中按原卷题号查找"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2015-28",
+      "year": 2015,
+      "number": 28,
+      "kind": "multiple",
+      "topic": "中共维护重庆政协协议的考虑",
+      "eventIds": [
+        "h081"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2015/28",
+          "locator": "2015年全国硕士研究生招生考试 · 思想政治理论（101） · 第28题"
+        },
+        {
+          "name": "新东方网公开试题PDF",
+          "url": "https://file.xdf.cn/uploads/141227/157_141227115735YgWuTGEXf2e3nJrf.pdf",
+          "locator": "在该公开整理材料中按原卷题号查找"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2015-29",
+      "year": 2015,
+      "number": 29,
+      "kind": "multiple",
+      "topic": "毛泽东思想与个人思想的区别",
+      "eventIds": [
+        "h036",
+        "h052"
+      ],
+      "scope": "cross",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2015/29",
+          "locator": "2015年全国硕士研究生招生考试 · 思想政治理论（101） · 第29题"
+        },
+        {
+          "name": "新东方网公开试题PDF",
+          "url": "https://file.xdf.cn/uploads/141227/157_141227115735YgWuTGEXf2e3nJrf.pdf",
+          "locator": "在该公开整理材料中按原卷题号查找"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2015-36",
+      "year": 2015,
+      "number": 36,
+      "kind": "analysis",
+      "topic": "马克思主义传播与中国传统思想",
+      "eventIds": [
+        "h073",
+        "h015"
+      ],
+      "scope": "cross",
+      "parts": [
+        {
+          "number": 1,
+          "topic": "马克思主义进入中国思想领域的背景",
+          "eventIds": [
+            "h015",
+            "h073"
+          ]
+        },
+        {
+          "number": 2,
+          "topic": "传统思想与马克思主义的关系",
+          "eventIds": [
+            "h073",
+            "h015"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/fenxiti/2015-36",
+          "locator": "2015年全国硕士研究生招生考试 · 思想政治理论（101） · 第36题"
+        },
+        {
+          "name": "新东方网公开试题PDF",
+          "url": "https://file.xdf.cn/uploads/141227/157_141227115735YgWuTGEXf2e3nJrf.pdf#page=15",
+          "locator": "PDF第15页（文件页码）"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2016-09",
+      "year": 2016,
+      "number": 9,
+      "kind": "single",
+      "topic": "民族意识广泛觉醒的历史契机",
+      "eventIds": [
+        "h008"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2016/9",
+          "locator": "2016年全国硕士研究生招生考试 · 思想政治理论（101） · 第9题"
+        },
+        {
+          "name": "研招网转载新东方考后解析（背景对照，不代表逐题复核）",
+          "url": "https://yz.chsi.com.cn/kyzx/politics/201512/20151227/1515310249.html",
+          "locator": "当年考情与范围对照"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2016-10",
+      "year": 2016,
+      "number": 10,
+      "kind": "single",
+      "topic": "魏源主张学习西方的主要内容",
+      "eventIds": [
+        "h070"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2016/10",
+          "locator": "2016年全国硕士研究生招生考试 · 思想政治理论（101） · 第10题"
+        },
+        {
+          "name": "研招网转载新东方考后解析（背景对照，不代表逐题复核）",
+          "url": "https://yz.chsi.com.cn/kyzx/politics/201512/20151227/1515310249.html",
+          "locator": "当年考情与范围对照"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2016-11",
+      "year": 2016,
+      "number": 11,
+      "kind": "single",
+      "topic": "抗战初期华北的国共协同作战",
+      "eventIds": [
+        "h077"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2016/11",
+          "locator": "2016年全国硕士研究生招生考试 · 思想政治理论（101） · 第11题"
+        },
+        {
+          "name": "研招网转载新东方考后解析（背景对照，不代表逐题复核）",
+          "url": "https://yz.chsi.com.cn/kyzx/politics/201512/20151227/1515310249.html",
+          "locator": "当年考情与范围对照"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2016-12",
+      "year": 2016,
+      "number": 12,
+      "kind": "single",
+      "topic": "五四指示与土地政策转变",
+      "eventIds": [
+        "h082",
+        "h040"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2016/12",
+          "locator": "2016年全国硕士研究生招生考试 · 思想政治理论（101） · 第12题"
+        },
+        {
+          "name": "研招网转载新东方考后解析（背景对照，不代表逐题复核）",
+          "url": "https://yz.chsi.com.cn/kyzx/politics/201512/20151227/1515310249.html",
+          "locator": "当年考情与范围对照"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2016-27",
+      "year": 2016,
+      "number": 27,
+      "kind": "multiple",
+      "topic": "戊戌维新失败的深层原因",
+      "eventIds": [
+        "h009"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2016/27",
+          "locator": "2016年全国硕士研究生招生考试 · 思想政治理论（101） · 第27题"
+        },
+        {
+          "name": "研招网转载新东方考后解析（背景对照，不代表逐题复核）",
+          "url": "https://yz.chsi.com.cn/kyzx/politics/201512/20151227/1515310249.html",
+          "locator": "当年考情与范围对照"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2016-28",
+      "year": 2016,
+      "number": 28,
+      "kind": "multiple",
+      "topic": "新文化运动的思想解放意义",
+      "eventIds": [
+        "h015"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2016/28",
+          "locator": "2016年全国硕士研究生招生考试 · 思想政治理论（101） · 第28题"
+        },
+        {
+          "name": "研招网转载新东方考后解析（背景对照，不代表逐题复核）",
+          "url": "https://yz.chsi.com.cn/kyzx/politics/201512/20151227/1515310249.html",
+          "locator": "当年考情与范围对照"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2016-29",
+      "year": 2016,
+      "number": 29,
+      "kind": "multiple",
+      "topic": "南方谈话的重要改革论断",
+      "eventIds": [
+        "h054"
+      ],
+      "scope": "cross",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2016/29",
+          "locator": "2016年全国硕士研究生招生考试 · 思想政治理论（101） · 第29题"
+        },
+        {
+          "name": "研招网转载新东方考后解析（背景对照，不代表逐题复核）",
+          "url": "https://yz.chsi.com.cn/kyzx/politics/201512/20151227/1515310249.html",
+          "locator": "当年考情与范围对照"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2016-36",
+      "year": 2016,
+      "number": 36,
+      "kind": "analysis",
+      "topic": "进京赶考的历史背景与持续要求",
+      "eventIds": [
+        "h042",
+        "h086",
+        "h056"
+      ],
+      "scope": "history",
+      "parts": [
+        {
+          "number": 1,
+          "topic": "全国胜利前夕为什么强调赶考",
+          "eventIds": [
+            "h042",
+            "h086"
+          ]
+        },
+        {
+          "number": 2,
+          "topic": "长期执政仍须保持清醒的要求",
+          "eventIds": [
+            "h042",
+            "h056"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/fenxiti/2016-36",
+          "locator": "2016年全国硕士研究生招生考试 · 思想政治理论（101） · 第36题"
+        },
+        {
+          "name": "研招网转载新东方考后解析（背景对照，不代表逐题复核）",
+          "url": "https://yz.chsi.com.cn/kyzx/politics/201512/20151227/1515310249.html",
+          "locator": "当年考情与范围对照"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2017-09",
+      "year": 2017,
+      "number": 9,
+      "kind": "single",
+      "topic": "甲午战败后列强瓜分中国的方式",
+      "eventIds": [
+        "h008",
+        "h010"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2017/9",
+          "locator": "2017年全国硕士研究生招生考试 · 思想政治理论（101） · 第9题"
+        },
+        {
+          "name": "新东方在线公开文字整理",
+          "url": "https://kaoyan.koolearn.com/20161224/970023.html",
+          "locator": "在该公开整理材料中按原卷题号查找"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2017-10",
+      "year": 2017,
+      "number": 10,
+      "kind": "single",
+      "topic": "巴黎和会与对西方民主的反思",
+      "eventIds": [
+        "h016"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2017/10",
+          "locator": "2017年全国硕士研究生招生考试 · 思想政治理论（101） · 第10题"
+        },
+        {
+          "name": "新东方在线公开文字整理",
+          "url": "https://kaoyan.koolearn.com/20161224/970023.html",
+          "locator": "在该公开整理材料中按原卷题号查找"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2017-11",
+      "year": 2017,
+      "number": 11,
+      "kind": "single",
+      "topic": "毛泽东思想趋于成熟的标志",
+      "eventIds": [
+        "h079",
+        "h036"
+      ],
+      "scope": "cross",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2017/11",
+          "locator": "2017年全国硕士研究生招生考试 · 思想政治理论（101） · 第11题"
+        },
+        {
+          "name": "新东方在线公开文字整理",
+          "url": "https://kaoyan.koolearn.com/20161224/970023.html",
+          "locator": "在该公开整理材料中按原卷题号查找"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2017-12",
+      "year": 2017,
+      "number": 12,
+      "kind": "single",
+      "topic": "三路大军配合与战略进攻",
+      "eventIds": [
+        "h084"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2017/12",
+          "locator": "2017年全国硕士研究生招生考试 · 思想政治理论（101） · 第12题"
+        },
+        {
+          "name": "新东方在线公开文字整理",
+          "url": "https://kaoyan.koolearn.com/20161224/970023.html",
+          "locator": "在该公开整理材料中按原卷题号查找"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2017-27",
+      "year": 2017,
+      "number": 27,
+      "kind": "multiple",
+      "topic": "资本列强控制中国经济的手段",
+      "eventIds": [
+        "h001",
+        "h002",
+        "h008"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2017/27",
+          "locator": "2017年全国硕士研究生招生考试 · 思想政治理论（101） · 第27题"
+        },
+        {
+          "name": "新东方在线公开文字整理",
+          "url": "https://kaoyan.koolearn.com/20161224/970023.html",
+          "locator": "在该公开整理材料中按原卷题号查找"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2017-28",
+      "year": 2017,
+      "number": 28,
+      "kind": "multiple",
+      "topic": "孙中山的革命实践与历史贡献",
+      "eventIds": [
+        "h071",
+        "h011",
+        "h012",
+        "h020"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2017/28",
+          "locator": "2017年全国硕士研究生招生考试 · 思想政治理论（101） · 第28题"
+        },
+        {
+          "name": "新东方在线公开文字整理",
+          "url": "https://kaoyan.koolearn.com/20161224/970023.html",
+          "locator": "在该公开整理材料中按原卷题号查找"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2017-29",
+      "year": 2017,
+      "number": 29,
+      "kind": "multiple",
+      "topic": "十一届三中全会的历史转折",
+      "eventIds": [
+        "h051"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2017/29",
+          "locator": "2017年全国硕士研究生招生考试 · 思想政治理论（101） · 第29题"
+        },
+        {
+          "name": "新东方在线公开文字整理",
+          "url": "https://kaoyan.koolearn.com/20161224/970023.html",
+          "locator": "在该公开整理材料中按原卷题号查找"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2017-36",
+      "year": 2017,
+      "number": 36,
+      "kind": "analysis",
+      "topic": "长征胜利与接续奋斗的精神",
+      "eventIds": [
+        "h028",
+        "h030",
+        "h056"
+      ],
+      "scope": "history",
+      "parts": [
+        {
+          "number": 1,
+          "topic": "长征胜利提供新的落脚点和出发点",
+          "eventIds": [
+            "h028",
+            "h030"
+          ]
+        },
+        {
+          "number": 2,
+          "topic": "新时代接续奋斗的长征精神",
+          "eventIds": [
+            "h030",
+            "h056"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/fenxiti/2017-36",
+          "locator": "2017年全国硕士研究生招生考试 · 思想政治理论（101） · 第36题"
+        },
+        {
+          "name": "新东方在线公开文字整理",
+          "url": "https://kaoyan.koolearn.com/20161224/970023.html",
+          "locator": "在该公开整理材料中按原卷题号查找"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2018-09",
+      "year": 2018,
+      "number": 9,
+      "kind": "single",
+      "topic": "近代社会最主要的民族矛盾",
+      "eventIds": [
+        "h001"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2018/9",
+          "locator": "2018年全国硕士研究生招生考试 · 思想政治理论（101） · 第9题"
+        },
+        {
+          "name": "中国考研网公开回忆版",
+          "url": "https://www.chinakaoyan.com/info/article/id/204637.shtml",
+          "locator": "在该公开整理材料中按原卷题号查找"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2018-10",
+      "year": 2018,
+      "number": 10,
+      "kind": "single",
+      "topic": "洋务派兴办洋务的政治目的",
+      "eventIds": [
+        "h007"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2018/10",
+          "locator": "2018年全国硕士研究生招生考试 · 思想政治理论（101） · 第10题"
+        },
+        {
+          "name": "中国考研网公开回忆版",
+          "url": "https://www.chinakaoyan.com/info/article/id/204637.shtml",
+          "locator": "在该公开整理材料中按原卷题号查找"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2018-11",
+      "year": 2018,
+      "number": 11,
+      "kind": "single",
+      "topic": "革命武装斗争与农民战争",
+      "eventIds": [
+        "h023",
+        "h024",
+        "h025"
+      ],
+      "scope": "cross",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2018/11",
+          "locator": "2018年全国硕士研究生招生考试 · 思想政治理论（101） · 第11题"
+        },
+        {
+          "name": "中国考研网公开回忆版",
+          "url": "https://www.chinakaoyan.com/info/article/id/204637.shtml",
+          "locator": "在该公开整理材料中按原卷题号查找"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2018-12",
+      "year": 2018,
+      "number": 12,
+      "kind": "single",
+      "topic": "延安整风的主要任务",
+      "eventIds": [
+        "h035"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2018/12",
+          "locator": "2018年全国硕士研究生招生考试 · 思想政治理论（101） · 第12题"
+        },
+        {
+          "name": "中国考研网公开回忆版",
+          "url": "https://www.chinakaoyan.com/info/article/id/204637.shtml",
+          "locator": "在该公开整理材料中按原卷题号查找"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2018-27",
+      "year": 2018,
+      "number": 27,
+      "kind": "multiple",
+      "topic": "古田会议与党对军队的领导",
+      "eventIds": [
+        "h026"
+      ],
+      "scope": "cross",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2018/27",
+          "locator": "2018年全国硕士研究生招生考试 · 思想政治理论（101） · 第27题"
+        },
+        {
+          "name": "中国考研网公开回忆版",
+          "url": "https://www.chinakaoyan.com/info/article/id/204637.shtml",
+          "locator": "在该公开整理材料中按原卷题号查找"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2018-28",
+      "year": 2018,
+      "number": 28,
+      "kind": "multiple",
+      "topic": "根据地政权建设与三三制",
+      "eventIds": [
+        "h080"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2018/28",
+          "locator": "2018年全国硕士研究生招生考试 · 思想政治理论（101） · 第28题"
+        },
+        {
+          "name": "中国考研网公开回忆版",
+          "url": "https://www.chinakaoyan.com/info/article/id/204637.shtml",
+          "locator": "在该公开整理材料中按原卷题号查找"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2018-29",
+      "year": 2018,
+      "number": 29,
+      "kind": "multiple",
+      "topic": "开展社会主义改造的条件",
+      "eventIds": [
+        "h047",
+        "h049"
+      ],
+      "scope": "cross",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2018/29",
+          "locator": "2018年全国硕士研究生招生考试 · 思想政治理论（101） · 第29题"
+        },
+        {
+          "name": "中国考研网公开回忆版",
+          "url": "https://www.chinakaoyan.com/info/article/id/204637.shtml",
+          "locator": "在该公开整理材料中按原卷题号查找"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2018-36",
+      "year": 2018,
+      "number": 36,
+      "kind": "analysis",
+      "topic": "共产党诞生的必然性与成长",
+      "eventIds": [
+        "h073",
+        "h017",
+        "h045",
+        "h051"
+      ],
+      "scope": "history",
+      "parts": [
+        {
+          "number": 1,
+          "topic": "中国共产党产生的历史必然性",
+          "eventIds": [
+            "h073",
+            "h017"
+          ]
+        },
+        {
+          "number": 2,
+          "topic": "党的发展壮大与历史成就",
+          "eventIds": [
+            "h017",
+            "h045",
+            "h051"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/fenxiti/2018-36",
+          "locator": "2018年全国硕士研究生招生考试 · 思想政治理论（101） · 第36题"
+        },
+        {
+          "name": "中国考研网公开回忆版",
+          "url": "https://www.chinakaoyan.com/info/article/id/204637.shtml",
+          "locator": "在该公开整理材料中按原卷题号查找"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2019-09",
+      "year": 2019,
+      "number": 9,
+      "kind": "single",
+      "topic": "戊戌变法的资产阶级改良性质",
+      "eventIds": [
+        "h009"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2019/9",
+          "locator": "2019年全国硕士研究生招生考试 · 思想政治理论（101） · 第9题"
+        },
+        {
+          "name": "中国考研网公开文字整理",
+          "url": "https://www.chinakaoyan.com/info/article/id/263367.shtml",
+          "locator": "在该公开整理材料中按原卷题号查找"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2019-10",
+      "year": 2019,
+      "number": 10,
+      "kind": "single",
+      "topic": "安源工人斗争的历史地位",
+      "eventIds": [
+        "h074"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2019/10",
+          "locator": "2019年全国硕士研究生招生考试 · 思想政治理论（101） · 第10题"
+        },
+        {
+          "name": "中国考研网公开文字整理",
+          "url": "https://www.chinakaoyan.com/info/article/id/263367.shtml",
+          "locator": "在该公开整理材料中按原卷题号查找"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2019-11",
+      "year": 2019,
+      "number": 11,
+      "kind": "single",
+      "topic": "促成西安事变和平解决的考虑",
+      "eventIds": [
+        "h031",
+        "h033"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2019/11",
+          "locator": "2019年全国硕士研究生招生考试 · 思想政治理论（101） · 第11题"
+        },
+        {
+          "name": "中国考研网公开文字整理",
+          "url": "https://www.chinakaoyan.com/info/article/id/263367.shtml",
+          "locator": "在该公开整理材料中按原卷题号查找"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2019-12",
+      "year": 2019,
+      "number": 12,
+      "kind": "single",
+      "topic": "赴重庆谈判的和平民主目标",
+      "eventIds": [
+        "h038"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2019/12",
+          "locator": "2019年全国硕士研究生招生考试 · 思想政治理论（101） · 第12题"
+        },
+        {
+          "name": "中国考研网公开文字整理",
+          "url": "https://www.chinakaoyan.com/info/article/id/263367.shtml",
+          "locator": "在该公开整理材料中按原卷题号查找"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2019-27",
+      "year": 2019,
+      "number": 27,
+      "kind": "multiple",
+      "topic": "建立井冈山根据地的条件",
+      "eventIds": [
+        "h025"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2019/27",
+          "locator": "2019年全国硕士研究生招生考试 · 思想政治理论（101） · 第27题"
+        },
+        {
+          "name": "中国考研网公开文字整理",
+          "url": "https://www.chinakaoyan.com/info/article/id/263367.shtml",
+          "locator": "在该公开整理材料中按原卷题号查找"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2019-28",
+      "year": 2019,
+      "number": 28,
+      "kind": "multiple",
+      "topic": "新中国成立标志的历史变化",
+      "eventIds": [
+        "h045"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2019/28",
+          "locator": "2019年全国硕士研究生招生考试 · 思想政治理论（101） · 第28题"
+        },
+        {
+          "name": "中国考研网公开文字整理",
+          "url": "https://www.chinakaoyan.com/info/article/id/263367.shtml",
+          "locator": "在该公开整理材料中按原卷题号查找"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2019-29",
+      "year": 2019,
+      "number": 29,
+      "kind": "multiple",
+      "topic": "改革初期农业与农村经济问题",
+      "eventIds": [
+        "h088",
+        "h051"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2019/29",
+          "locator": "2019年全国硕士研究生招生考试 · 思想政治理论（101） · 第29题"
+        },
+        {
+          "name": "中国考研网公开文字整理",
+          "url": "https://www.chinakaoyan.com/info/article/id/263367.shtml",
+          "locator": "在该公开整理材料中按原卷题号查找"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2019-36",
+      "year": 2019,
+      "number": 36,
+      "kind": "analysis",
+      "topic": "马克思主义选择与民族复兴进程",
+      "eventIds": [
+        "h073",
+        "h017",
+        "h045",
+        "h051",
+        "h056"
+      ],
+      "scope": "history",
+      "parts": [
+        {
+          "number": 1,
+          "topic": "马克思主义为中国提供新道路",
+          "eventIds": [
+            "h073",
+            "h017"
+          ]
+        },
+        {
+          "number": 2,
+          "topic": "民族复兴历史进程说明的道理",
+          "eventIds": [
+            "h045",
+            "h051",
+            "h056"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/fenxiti/2019-36",
+          "locator": "2019年全国硕士研究生招生考试 · 思想政治理论（101） · 第36题"
+        },
+        {
+          "name": "中国考研网公开文字整理",
+          "url": "https://www.chinakaoyan.com/info/article/id/263367.shtml",
+          "locator": "在该公开整理材料中按原卷题号查找"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2020-09",
+      "year": 2020,
+      "number": 9,
+      "kind": "single",
+      "topic": "争取民族独立需要改变的统治",
+      "eventIds": [
+        "h001",
+        "h045"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2020/9",
+          "locator": "2020年全国硕士研究生招生考试 · 思想政治理论（101） · 第9题"
+        },
+        {
+          "name": "中国教育在线史纲考后点评（背景对照，不代表逐题复核）",
+          "url": "https://kaoyan.eol.cn/shiti/zhengzhi/201912/t20191221_1700432.shtml",
+          "locator": "当年考情与范围对照"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2020-10",
+      "year": 2020,
+      "number": 10,
+      "kind": "single",
+      "topic": "革命派和改良派的论战焦点",
+      "eventIds": [
+        "h072"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2020/10",
+          "locator": "2020年全国硕士研究生招生考试 · 思想政治理论（101） · 第10题"
+        },
+        {
+          "name": "中国教育在线史纲考后点评（背景对照，不代表逐题复核）",
+          "url": "https://kaoyan.eol.cn/shiti/zhengzhi/201912/t20191221_1700432.shtml",
+          "locator": "当年考情与范围对照"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2020-11",
+      "year": 2020,
+      "number": 11,
+      "kind": "single",
+      "topic": "共产党成立后的群众动员路线",
+      "eventIds": [
+        "h017",
+        "h074"
+      ],
+      "scope": "cross",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2020/11",
+          "locator": "2020年全国硕士研究生招生考试 · 思想政治理论（101） · 第11题"
+        },
+        {
+          "name": "中国教育在线史纲考后点评（背景对照，不代表逐题复核）",
+          "url": "https://kaoyan.eol.cn/shiti/zhengzhi/201912/t20191221_1700432.shtml",
+          "locator": "当年考情与范围对照"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2020-12",
+      "year": 2020,
+      "number": 12,
+      "kind": "single",
+      "topic": "社会主义基本制度建立的意义",
+      "eventIds": [
+        "h049"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2020/12",
+          "locator": "2020年全国硕士研究生招生考试 · 思想政治理论（101） · 第12题"
+        },
+        {
+          "name": "中国教育在线史纲考后点评（背景对照，不代表逐题复核）",
+          "url": "https://kaoyan.eol.cn/shiti/zhengzhi/201912/t20191221_1700432.shtml",
+          "locator": "当年考情与范围对照"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2020-27",
+      "year": 2020,
+      "number": 27,
+      "kind": "multiple",
+      "topic": "列强未能完全殖民统治中国的原因",
+      "eventIds": [
+        "h001",
+        "h008"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2020/27",
+          "locator": "2020年全国硕士研究生招生考试 · 思想政治理论（101） · 第27题"
+        },
+        {
+          "name": "中国教育在线史纲考后点评（背景对照，不代表逐题复核）",
+          "url": "https://kaoyan.eol.cn/shiti/zhengzhi/201912/t20191221_1700432.shtml",
+          "locator": "当年考情与范围对照"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2020-28",
+      "year": 2020,
+      "number": 28,
+      "kind": "multiple",
+      "topic": "早期马克思主义者的学习与实践",
+      "eventIds": [
+        "h073",
+        "h017"
+      ],
+      "scope": "cross",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2020/28",
+          "locator": "2020年全国硕士研究生招生考试 · 思想政治理论（101） · 第28题"
+        },
+        {
+          "name": "中国教育在线史纲考后点评（背景对照，不代表逐题复核）",
+          "url": "https://kaoyan.eol.cn/shiti/zhengzhi/201912/t20191221_1700432.shtml",
+          "locator": "当年考情与范围对照"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2020-29",
+      "year": 2020,
+      "number": 29,
+      "kind": "multiple",
+      "topic": "抗美援朝胜利的历史意义",
+      "eventIds": [
+        "h087"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2020/29",
+          "locator": "2020年全国硕士研究生招生考试 · 思想政治理论（101） · 第29题"
+        },
+        {
+          "name": "中国教育在线史纲考后点评（背景对照，不代表逐题复核）",
+          "url": "https://kaoyan.eol.cn/shiti/zhengzhi/201912/t20191221_1700432.shtml",
+          "locator": "当年考情与范围对照"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2020-36",
+      "year": 2020,
+      "number": 36,
+      "kind": "analysis",
+      "topic": "香山时期的建国筹备与历史转折",
+      "eventIds": [
+        "h086",
+        "h043",
+        "h044",
+        "h045"
+      ],
+      "scope": "history",
+      "parts": [
+        {
+          "number": 1,
+          "topic": "香山时期在筹建新中国中的作用",
+          "eventIds": [
+            "h086",
+            "h043",
+            "h044"
+          ]
+        },
+        {
+          "number": 2,
+          "topic": "国家成立对近代命运的改变",
+          "eventIds": [
+            "h045"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/fenxiti/2020-36",
+          "locator": "2020年全国硕士研究生招生考试 · 思想政治理论（101） · 第36题"
+        },
+        {
+          "name": "中国教育在线史纲考后点评（背景对照，不代表逐题复核）",
+          "url": "https://kaoyan.eol.cn/shiti/zhengzhi/201912/t20191221_1700432.shtml",
+          "locator": "当年考情与范围对照"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2021-09",
+      "year": 2021,
+      "number": 9,
+      "kind": "single",
+      "topic": "洋务官督商办企业的经济性质",
+      "eventIds": [
+        "h007"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2021/9",
+          "locator": "2021年全国硕士研究生招生考试 · 思想政治理论（101） · 第9题"
+        },
+        {
+          "name": "中国教育在线公开文字整理",
+          "url": "https://kaoyan.eol.cn/shiti/zhengzhi/202012/t20201226_2063187.shtml",
+          "locator": "在该公开整理材料中按原卷题号查找"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2021-10",
+      "year": 2021,
+      "number": 10,
+      "kind": "single",
+      "topic": "全民族抗战胜利的关键力量",
+      "eventIds": [
+        "h033",
+        "h037"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2021/10",
+          "locator": "2021年全国硕士研究生招生考试 · 思想政治理论（101） · 第10题"
+        },
+        {
+          "name": "中国教育在线公开文字整理",
+          "url": "https://kaoyan.eol.cn/shiti/zhengzhi/202012/t20201226_2063187.shtml",
+          "locator": "在该公开整理材料中按原卷题号查找"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2021-11",
+      "year": 2021,
+      "number": 11,
+      "kind": "single",
+      "topic": "新政协召开与新中国建立",
+      "eventIds": [
+        "h044",
+        "h045"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2021/11",
+          "locator": "2021年全国硕士研究生招生考试 · 思想政治理论（101） · 第11题"
+        },
+        {
+          "name": "中国教育在线公开文字整理",
+          "url": "https://kaoyan.eol.cn/shiti/zhengzhi/202012/t20201226_2063187.shtml",
+          "locator": "在该公开整理材料中按原卷题号查找"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2021-12",
+      "year": 2021,
+      "number": 12,
+      "kind": "single",
+      "topic": "资本主义工商业改造的政策",
+      "eventIds": [
+        "h047",
+        "h049"
+      ],
+      "scope": "cross",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2021/12",
+          "locator": "2021年全国硕士研究生招生考试 · 思想政治理论（101） · 第12题"
+        },
+        {
+          "name": "中国教育在线公开文字整理",
+          "url": "https://kaoyan.eol.cn/shiti/zhengzhi/202012/t20201226_2063187.shtml",
+          "locator": "在该公开整理材料中按原卷题号查找"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2021-27",
+      "year": 2021,
+      "number": 27,
+      "kind": "multiple",
+      "topic": "鸦片战争改变中国社会的方面",
+      "eventIds": [
+        "h001"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2021/27",
+          "locator": "2021年全国硕士研究生招生考试 · 思想政治理论（101） · 第27题"
+        },
+        {
+          "name": "中国教育在线公开文字整理",
+          "url": "https://kaoyan.eol.cn/shiti/zhengzhi/202012/t20201226_2063187.shtml",
+          "locator": "在该公开整理材料中按原卷题号查找"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2021-28",
+      "year": 2021,
+      "number": 28,
+      "kind": "multiple",
+      "topic": "早期马克思主义信仰者的类型",
+      "eventIds": [
+        "h073",
+        "h017"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2021/28",
+          "locator": "2021年全国硕士研究生招生考试 · 思想政治理论（101） · 第28题"
+        },
+        {
+          "name": "中国教育在线公开文字整理",
+          "url": "https://kaoyan.eol.cn/shiti/zhengzhi/202012/t20201226_2063187.shtml",
+          "locator": "在该公开整理材料中按原卷题号查找"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2021-29",
+      "year": 2021,
+      "number": 29,
+      "kind": "multiple",
+      "topic": "社会主义建设探索时期的成就",
+      "eventIds": [
+        "h050",
+        "h065"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2021/29",
+          "locator": "2021年全国硕士研究生招生考试 · 思想政治理论（101） · 第29题"
+        },
+        {
+          "name": "中国教育在线公开文字整理",
+          "url": "https://kaoyan.eol.cn/shiti/zhengzhi/202012/t20201226_2063187.shtml",
+          "locator": "在该公开整理材料中按原卷题号查找"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2021-36",
+      "year": 2021,
+      "number": 36,
+      "kind": "analysis",
+      "topic": "抗美援朝决策与战争胜利的影响",
+      "eventIds": [
+        "h045",
+        "h087"
+      ],
+      "scope": "history",
+      "parts": [
+        {
+          "number": 1,
+          "topic": "建国初期作出抗美援朝决策的条件",
+          "eventIds": [
+            "h045",
+            "h087"
+          ]
+        },
+        {
+          "number": 2,
+          "topic": "战争胜利对中国与世界的影响",
+          "eventIds": [
+            "h087"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/fenxiti/2021-36",
+          "locator": "2021年全国硕士研究生招生考试 · 思想政治理论（101） · 第36题"
+        },
+        {
+          "name": "中国教育在线公开文字整理",
+          "url": "https://kaoyan.eol.cn/shiti/zhengzhi/202012/t20201226_2063187.shtml",
+          "locator": "在该公开整理材料中按原卷题号查找"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2022-09",
+      "year": 2022,
+      "number": 9,
+      "kind": "single",
+      "topic": "维新派突破中体西用的制度主张",
+      "eventIds": [
+        "h007",
+        "h009"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2022/9",
+          "locator": "2022年全国硕士研究生招生考试 · 思想政治理论（101） · 第9题"
+        },
+        {
+          "name": "中国教育在线公开试题整理",
+          "url": "https://kaoyan.eol.cn/shiti/zhengzhi/202203/t20220328_2217516.shtml",
+          "locator": "在该公开整理材料中按原卷题号查找"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2022-10",
+      "year": 2022,
+      "number": 10,
+      "kind": "single",
+      "topic": "南昌起义与独立领导革命武装",
+      "eventIds": [
+        "h023"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2022/10",
+          "locator": "2022年全国硕士研究生招生考试 · 思想政治理论（101） · 第10题"
+        },
+        {
+          "name": "中国教育在线公开试题整理",
+          "url": "https://kaoyan.eol.cn/shiti/zhengzhi/202203/t20220328_2217516.shtml",
+          "locator": "在该公开整理材料中按原卷题号查找"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2022-11",
+      "year": 2022,
+      "number": 11,
+      "kind": "single",
+      "topic": "中央进驻香山的重要历史地位",
+      "eventIds": [
+        "h086"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2022/11",
+          "locator": "2022年全国硕士研究生招生考试 · 思想政治理论（101） · 第11题"
+        },
+        {
+          "name": "中国教育在线公开试题整理",
+          "url": "https://kaoyan.eol.cn/shiti/zhengzhi/202203/t20220328_2217516.shtml",
+          "locator": "在该公开整理材料中按原卷题号查找"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2022-12",
+      "year": 2022,
+      "number": 12,
+      "kind": "single",
+      "topic": "社会主义建设中的第二次结合",
+      "eventIds": [
+        "h062",
+        "h050"
+      ],
+      "scope": "cross",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2022/12",
+          "locator": "2022年全国硕士研究生招生考试 · 思想政治理论（101） · 第12题"
+        },
+        {
+          "name": "中国教育在线公开试题整理",
+          "url": "https://kaoyan.eol.cn/shiti/zhengzhi/202203/t20220328_2217516.shtml",
+          "locator": "在该公开整理材料中按原卷题号查找"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2022-27",
+      "year": 2022,
+      "number": 27,
+      "kind": "multiple",
+      "topic": "遵义会议的领导与路线转折",
+      "eventIds": [
+        "h028"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2022/27",
+          "locator": "2022年全国硕士研究生招生考试 · 思想政治理论（101） · 第27题"
+        },
+        {
+          "name": "中国教育在线公开试题整理",
+          "url": "https://kaoyan.eol.cn/shiti/zhengzhi/202203/t20220328_2217516.shtml",
+          "locator": "在该公开整理材料中按原卷题号查找"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2022-28",
+      "year": 2022,
+      "number": 28,
+      "kind": "multiple",
+      "topic": "历史决议概括的思想方法",
+      "eventIds": [
+        "h052"
+      ],
+      "scope": "cross",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2022/28",
+          "locator": "2022年全国硕士研究生招生考试 · 思想政治理论（101） · 第28题"
+        },
+        {
+          "name": "中国教育在线公开试题整理",
+          "url": "https://kaoyan.eol.cn/shiti/zhengzhi/202203/t20220328_2217516.shtml",
+          "locator": "在该公开整理材料中按原卷题号查找"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2022-29",
+      "year": 2022,
+      "number": 29,
+      "kind": "multiple",
+      "topic": "十八届三中全会为何具有转折意义",
+      "eventIds": [
+        "h089",
+        "h051"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2022/29",
+          "locator": "2022年全国硕士研究生招生考试 · 思想政治理论（101） · 第29题"
+        },
+        {
+          "name": "中国教育在线公开试题整理",
+          "url": "https://kaoyan.eol.cn/shiti/zhengzhi/202203/t20220328_2217516.shtml",
+          "locator": "在该公开整理材料中按原卷题号查找"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2022-36",
+      "year": 2022,
+      "number": 36,
+      "kind": "analysis",
+      "topic": "孙中山建国设想与党的百年奋斗",
+      "eventIds": [
+        "h012",
+        "h045",
+        "h059",
+        "h001",
+        "h017",
+        "h051"
+      ],
+      "scope": "history",
+      "parts": [
+        {
+          "number": 1,
+          "topic": "孙中山建设设想在旧中国的障碍",
+          "eventIds": [
+            "h012",
+            "h001"
+          ]
+        },
+        {
+          "number": 2,
+          "topic": "党的百年奋斗带来的历史变化",
+          "eventIds": [
+            "h017",
+            "h045",
+            "h051",
+            "h059"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/fenxiti/2022-36",
+          "locator": "2022年全国硕士研究生招生考试 · 思想政治理论（101） · 第36题"
+        },
+        {
+          "name": "中国教育在线公开试题整理",
+          "url": "https://kaoyan.eol.cn/shiti/zhengzhi/202203/t20220328_2217516.shtml",
+          "locator": "在该公开整理材料中按原卷题号查找"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2023-09",
+      "year": 2023,
+      "number": 9,
+      "kind": "single",
+      "topic": "近代中国落后于时代的制度原因",
+      "eventIds": [
+        "h001"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2023/9",
+          "locator": "2023年全国硕士研究生招生考试 · 思想政治理论（101） · 第9题"
+        },
+        {
+          "name": "中国教育在线公开试题整理",
+          "url": "https://kaoyan.eol.cn/shiti/zhengzhi/202311/t20231110_2531285.shtml",
+          "locator": "在该公开整理材料中按原卷题号查找"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2023-10",
+      "year": 2023,
+      "number": 10,
+      "kind": "single",
+      "topic": "八七会议确定的革命方针",
+      "eventIds": [
+        "h024"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2023/10",
+          "locator": "2023年全国硕士研究生招生考试 · 思想政治理论（101） · 第10题"
+        },
+        {
+          "name": "中国教育在线公开试题整理",
+          "url": "https://kaoyan.eol.cn/shiti/zhengzhi/202311/t20231110_2531285.shtml",
+          "locator": "在该公开整理材料中按原卷题号查找"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2023-11",
+      "year": 2023,
+      "number": 11,
+      "kind": "single",
+      "topic": "延安精神体现的党的宗旨",
+      "eventIds": [
+        "h035",
+        "h036"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2023/11",
+          "locator": "2023年全国硕士研究生招生考试 · 思想政治理论（101） · 第11题"
+        },
+        {
+          "name": "中国教育在线公开试题整理",
+          "url": "https://kaoyan.eol.cn/shiti/zhengzhi/202311/t20231110_2531285.shtml",
+          "locator": "在该公开整理材料中按原卷题号查找"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2023-12",
+      "year": 2023,
+      "number": 12,
+      "kind": "single",
+      "topic": "进入社会主义社会的主要标志",
+      "eventIds": [
+        "h049"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2023/12",
+          "locator": "2023年全国硕士研究生招生考试 · 思想政治理论（101） · 第12题"
+        },
+        {
+          "name": "中国教育在线公开试题整理",
+          "url": "https://kaoyan.eol.cn/shiti/zhengzhi/202311/t20231110_2531285.shtml",
+          "locator": "在该公开整理材料中按原卷题号查找"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2023-27",
+      "year": 2023,
+      "number": 27,
+      "kind": "multiple",
+      "topic": "革命派与改良派论战的作用",
+      "eventIds": [
+        "h072",
+        "h012"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2023/27",
+          "locator": "2023年全国硕士研究生招生考试 · 思想政治理论（101） · 第27题"
+        },
+        {
+          "name": "中国教育在线公开试题整理",
+          "url": "https://kaoyan.eol.cn/shiti/zhengzhi/202311/t20231110_2531285.shtml",
+          "locator": "在该公开整理材料中按原卷题号查找"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2023-28",
+      "year": 2023,
+      "number": 28,
+      "kind": "multiple",
+      "topic": "反对本本主义中的调查与自主",
+      "eventIds": [
+        "h076"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2023/28",
+          "locator": "2023年全国硕士研究生招生考试 · 思想政治理论（101） · 第28题"
+        },
+        {
+          "name": "中国教育在线公开试题整理",
+          "url": "https://kaoyan.eol.cn/shiti/zhengzhi/202311/t20231110_2531285.shtml",
+          "locator": "在该公开整理材料中按原卷题号查找"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2023-29",
+      "year": 2023,
+      "number": 29,
+      "kind": "multiple",
+      "topic": "作出改革开放决策的历史依据",
+      "eventIds": [
+        "h051"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2023/29",
+          "locator": "2023年全国硕士研究生招生考试 · 思想政治理论（101） · 第29题"
+        },
+        {
+          "name": "中国教育在线公开试题整理",
+          "url": "https://kaoyan.eol.cn/shiti/zhengzhi/202311/t20231110_2531285.shtml",
+          "locator": "在该公开整理材料中按原卷题号查找"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2023-36",
+      "year": 2023,
+      "number": 36,
+      "kind": "analysis",
+      "topic": "七大看齐要求与百年团结奋斗",
+      "eventIds": [
+        "h036",
+        "h037",
+        "h059",
+        "h017",
+        "h045"
+      ],
+      "scope": "history",
+      "parts": [
+        {
+          "number": 1,
+          "topic": "七大前夕强调看齐的形势与任务",
+          "eventIds": [
+            "h036",
+            "h037"
+          ]
+        },
+        {
+          "number": 2,
+          "topic": "团结奋斗与百年历史成就的联系",
+          "eventIds": [
+            "h017",
+            "h045",
+            "h059"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/fenxiti/2023-36",
+          "locator": "2023年全国硕士研究生招生考试 · 思想政治理论（101） · 第36题"
+        },
+        {
+          "name": "中国教育在线公开试题整理",
+          "url": "https://kaoyan.eol.cn/shiti/zhengzhi/202311/t20231110_2531285.shtml",
+          "locator": "在该公开整理材料中按原卷题号查找"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2024-10",
+      "year": 2024,
+      "number": 10,
+      "kind": "single",
+      "topic": "近代中国半封建经济的含义",
+      "eventIds": [
+        "h001"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2024/10",
+          "locator": "2024年全国硕士研究生招生考试 · 思想政治理论（101） · 第10题"
+        },
+        {
+          "name": "启航公开试题整理PDF",
+          "url": "https://aged-jixun-cdn.iqihang.com/2024/0830/20240830060446466.pdf#page=7",
+          "locator": "PDF第7页（文件页码）"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2024-11",
+      "year": 2024,
+      "number": 11,
+      "kind": "single",
+      "topic": "兴中会章程中的民族振兴追求",
+      "eventIds": [
+        "h071"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2024/11",
+          "locator": "2024年全国硕士研究生招生考试 · 思想政治理论（101） · 第11题"
+        },
+        {
+          "name": "启航公开试题整理PDF",
+          "url": "https://aged-jixun-cdn.iqihang.com/2024/0830/20240830060446466.pdf#page=8",
+          "locator": "PDF第8页（文件页码）"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2024-12",
+      "year": 2024,
+      "number": 12,
+      "kind": "single",
+      "topic": "卢沟桥事变与全民族抗战",
+      "eventIds": [
+        "h032"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2024/12",
+          "locator": "2024年全国硕士研究生招生考试 · 思想政治理论（101） · 第12题"
+        },
+        {
+          "name": "启航公开试题整理PDF",
+          "url": "https://aged-jixun-cdn.iqihang.com/2024/0830/20240830060446466.pdf#page=8",
+          "locator": "PDF第8页（文件页码）"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2024-13",
+      "year": 2024,
+      "number": 13,
+      "kind": "single",
+      "topic": "解放战争后期的请示报告制度",
+      "eventIds": [
+        "h085"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2024/13",
+          "locator": "2024年全国硕士研究生招生考试 · 思想政治理论（101） · 第13题"
+        },
+        {
+          "name": "启航公开试题整理PDF",
+          "url": "https://aged-jixun-cdn.iqihang.com/2024/0830/20240830060446466.pdf#page=9",
+          "locator": "PDF第9页（文件页码）"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2024-27",
+      "year": 2024,
+      "number": 27,
+      "kind": "multiple",
+      "topic": "大革命相较辛亥革命的推进",
+      "eventIds": [
+        "h012",
+        "h020",
+        "h021"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2024/27",
+          "locator": "2024年全国硕士研究生招生考试 · 思想政治理论（101） · 第27题"
+        },
+        {
+          "name": "启航公开试题整理PDF",
+          "url": "https://aged-jixun-cdn.iqihang.com/2024/0830/20240830060446466.pdf#page=20",
+          "locator": "PDF第20页（文件页码）"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2024-28",
+      "year": 2024,
+      "number": 28,
+      "kind": "multiple",
+      "topic": "一九五六年社会主义建设的探索",
+      "eventIds": [
+        "h062",
+        "h050",
+        "h063"
+      ],
+      "scope": "cross",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2024/28",
+          "locator": "2024年全国硕士研究生招生考试 · 思想政治理论（101） · 第28题"
+        },
+        {
+          "name": "启航公开试题整理PDF",
+          "url": "https://aged-jixun-cdn.iqihang.com/2024/0830/20240830060446466.pdf#page=20",
+          "locator": "PDF第20页（文件页码）"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2024-29",
+      "year": 2024,
+      "number": 29,
+      "kind": "multiple",
+      "topic": "党的自我革命与党的建设",
+      "eventIds": [
+        "h035",
+        "h060"
+      ],
+      "scope": "cross",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2024/29",
+          "locator": "2024年全国硕士研究生招生考试 · 思想政治理论（101） · 第29题"
+        },
+        {
+          "name": "启航公开试题整理PDF",
+          "url": "https://aged-jixun-cdn.iqihang.com/2024/0830/20240830060446466.pdf#page=21",
+          "locator": "PDF第21页（文件页码）"
+        },
+        {
+          "name": "中国考研网转载新东方整理（补充对照）",
+          "url": "https://www.chinakaoyan.com/info/article/id/527463.shtml",
+          "locator": "第29题"
+        }
+      ],
+      "notes": "对照PDF此处有转录瑕疵，建议同时核对公开文字版；此索引不提供字母答案。",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2024-36",
+      "year": 2024,
+      "number": 36,
+      "kind": "analysis",
+      "topic": "新文化以来的文化方向与第二个结合",
+      "eventIds": [
+        "h015",
+        "h079",
+        "h090"
+      ],
+      "scope": "cross",
+      "parts": [
+        {
+          "number": 1,
+          "topic": "党对中国文化发展方向的探索",
+          "eventIds": [
+            "h015",
+            "h079"
+          ]
+        },
+        {
+          "number": 2,
+          "topic": "解决古今中西关系的新条件",
+          "eventIds": [
+            "h090"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/fenxiti/2024-36",
+          "locator": "2024年全国硕士研究生招生考试 · 思想政治理论（101） · 第36题"
+        },
+        {
+          "name": "启航公开试题整理PDF",
+          "url": "https://aged-jixun-cdn.iqihang.com/2024/0830/20240830060446466.pdf#page=28",
+          "locator": "PDF第28页（文件页码）"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2025-10",
+      "year": 2025,
+      "number": 10,
+      "kind": "single",
+      "topic": "资本入侵对中国经济的双重影响",
+      "eventIds": [
+        "h001",
+        "h002"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2025/10",
+          "locator": "2025年全国硕士研究生招生考试 · 思想政治理论（101） · 第10题"
+        },
+        {
+          "name": "掌上考研公开试题整理PDF",
+          "url": "https://static.kaoyan.cn/file/question/2024/12/21/91b7a7b452c6b960d9259771b7812992.pdf#page=7",
+          "locator": "PDF第7页（文件页码）"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2025-11",
+      "year": 2025,
+      "number": 11,
+      "kind": "single",
+      "topic": "实业救国道路未能成功的根源",
+      "eventIds": [
+        "h001",
+        "h045"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2025/11",
+          "locator": "2025年全国硕士研究生招生考试 · 思想政治理论（101） · 第11题"
+        },
+        {
+          "name": "掌上考研公开试题整理PDF",
+          "url": "https://static.kaoyan.cn/file/question/2024/12/21/91b7a7b452c6b960d9259771b7812992.pdf#page=8",
+          "locator": "PDF第8页（文件页码）"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2025-12",
+      "year": 2025,
+      "number": 12,
+      "kind": "single",
+      "topic": "七大的指导思想与历史贡献",
+      "eventIds": [
+        "h036"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2025/12",
+          "locator": "2025年全国硕士研究生招生考试 · 思想政治理论（101） · 第12题"
+        },
+        {
+          "name": "掌上考研公开试题整理PDF",
+          "url": "https://static.kaoyan.cn/file/question/2024/12/21/91b7a7b452c6b960d9259771b7812992.pdf#page=9",
+          "locator": "PDF第9页（文件页码）"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2025-13",
+      "year": 2025,
+      "number": 13,
+      "kind": "single",
+      "topic": "一九八一年历史决议与工作重点",
+      "eventIds": [
+        "h052",
+        "h051"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2025/13",
+          "locator": "2025年全国硕士研究生招生考试 · 思想政治理论（101） · 第13题"
+        },
+        {
+          "name": "掌上考研公开试题整理PDF",
+          "url": "https://static.kaoyan.cn/file/question/2024/12/21/91b7a7b452c6b960d9259771b7812992.pdf#page=9",
+          "locator": "PDF第9页（文件页码）"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2025-27",
+      "year": 2025,
+      "number": 27,
+      "kind": "multiple",
+      "topic": "中国共产党创建时的历史特点",
+      "eventIds": [
+        "h017"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2025/27",
+          "locator": "2025年全国硕士研究生招生考试 · 思想政治理论（101） · 第27题"
+        },
+        {
+          "name": "掌上考研公开试题整理PDF",
+          "url": "https://static.kaoyan.cn/file/question/2024/12/21/91b7a7b452c6b960d9259771b7812992.pdf#page=19",
+          "locator": "PDF第19页（文件页码）"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2025-28",
+      "year": 2025,
+      "number": 28,
+      "kind": "multiple",
+      "topic": "六届六中全会与理论中国化",
+      "eventIds": [
+        "h078"
+      ],
+      "scope": "history",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2025/28",
+          "locator": "2025年全国硕士研究生招生考试 · 思想政治理论（101） · 第28题"
+        },
+        {
+          "name": "掌上考研公开试题整理PDF",
+          "url": "https://static.kaoyan.cn/file/question/2024/12/21/91b7a7b452c6b960d9259771b7812992.pdf#page=20",
+          "locator": "PDF第20页（文件页码）"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2025-29",
+      "year": 2025,
+      "number": 29,
+      "kind": "multiple",
+      "topic": "南方谈话与社会主义改革认识",
+      "eventIds": [
+        "h054"
+      ],
+      "scope": "cross",
+      "parts": [],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/2025/29",
+          "locator": "2025年全国硕士研究生招生考试 · 思想政治理论（101） · 第29题"
+        },
+        {
+          "name": "掌上考研公开试题整理PDF",
+          "url": "https://static.kaoyan.cn/file/question/2024/12/21/91b7a7b452c6b960d9259771b7812992.pdf#page=20",
+          "locator": "PDF第20页（文件页码）"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    },
+    {
+      "id": "r2025-36",
+      "year": 2025,
+      "number": 36,
+      "kind": "analysis",
+      "topic": "全民族团结抗战与胜利的作用",
+      "eventIds": [
+        "h033",
+        "h034",
+        "h037"
+      ],
+      "scope": "history",
+      "parts": [
+        {
+          "number": 1,
+          "topic": "全民族联合对战胜侵略的作用",
+          "eventIds": [
+            "h033",
+            "h034"
+          ]
+        },
+        {
+          "number": 2,
+          "topic": "抗战胜利与民族复兴的历史关系",
+          "eventIds": [
+            "h037"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "name": "真题营公开文字整理（非官方原卷）",
+          "url": "https://zhenti.zalize.com/zhenti/fenxiti/2025-36",
+          "locator": "2025年全国硕士研究生招生考试 · 思想政治理论（101） · 第36题"
+        },
+        {
+          "name": "掌上考研公开试题整理PDF",
+          "url": "https://static.kaoyan.cn/file/question/2024/12/21/91b7a7b452c6b960d9259771b7812992.pdf#page=29",
+          "locator": "PDF第29页（文件页码）"
+        }
+      ],
+      "notes": "",
+      "status": "public-transcript",
+      "hasFullText": false
+    }
+  ],
+  "note": "依据公开整理版建立的题号—考点索引，含历史交叉考点；不是官方学科划分、原题全文库或官方答案库。",
+  "manifest": [
+    {
+      "year": 2010,
+      "numbers": [
+        9,
+        10,
+        26,
+        27,
+        28,
+        29,
+        36
+      ]
+    },
+    {
+      "year": 2011,
+      "numbers": [
+        9,
+        10,
+        26,
+        27,
+        28,
+        29,
+        36
+      ]
+    },
+    {
+      "year": 2012,
+      "numbers": [
+        9,
+        10,
+        26,
+        27,
+        28,
+        29,
+        36
+      ]
+    },
+    {
+      "year": 2013,
+      "numbers": [
+        9,
+        10,
+        27,
+        28,
+        29,
+        30,
+        36
+      ]
+    },
+    {
+      "year": 2014,
+      "numbers": [
+        9,
+        10,
+        11,
+        12,
+        27,
+        28,
+        29,
+        36
+      ]
+    },
+    {
+      "year": 2015,
+      "numbers": [
+        9,
+        10,
+        11,
+        12,
+        27,
+        28,
+        29,
+        36
+      ]
+    },
+    {
+      "year": 2016,
+      "numbers": [
+        9,
+        10,
+        11,
+        12,
+        27,
+        28,
+        29,
+        36
+      ]
+    },
+    {
+      "year": 2017,
+      "numbers": [
+        9,
+        10,
+        11,
+        12,
+        27,
+        28,
+        29,
+        36
+      ]
+    },
+    {
+      "year": 2018,
+      "numbers": [
+        9,
+        10,
+        11,
+        12,
+        27,
+        28,
+        29,
+        36
+      ]
+    },
+    {
+      "year": 2019,
+      "numbers": [
+        9,
+        10,
+        11,
+        12,
+        27,
+        28,
+        29,
+        36
+      ]
+    },
+    {
+      "year": 2020,
+      "numbers": [
+        9,
+        10,
+        11,
+        12,
+        27,
+        28,
+        29,
+        36
+      ]
+    },
+    {
+      "year": 2021,
+      "numbers": [
+        9,
+        10,
+        11,
+        12,
+        27,
+        28,
+        29,
+        36
+      ]
+    },
+    {
+      "year": 2022,
+      "numbers": [
+        9,
+        10,
+        11,
+        12,
+        27,
+        28,
+        29,
+        36
+      ]
+    },
+    {
+      "year": 2023,
+      "numbers": [
+        9,
+        10,
+        11,
+        12,
+        27,
+        28,
+        29,
+        36
+      ]
+    },
+    {
+      "year": 2024,
+      "numbers": [
+        10,
+        11,
+        12,
+        13,
+        27,
+        28,
+        29,
+        36
+      ]
+    },
+    {
+      "year": 2025,
+      "numbers": [
+        10,
+        11,
+        12,
+        13,
+        27,
+        28,
+        29,
+        36
+      ]
+    }
+  ]
+}
